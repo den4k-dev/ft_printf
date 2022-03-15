@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+*.out
+text*
+test*
+*copy.c
+*.o
+*.a
+*tester
+pft/
